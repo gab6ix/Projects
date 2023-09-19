@@ -1,0 +1,147 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.contain {
+    background: linear-gradient(#00000076, #00000076), url(./startbootstrap-grayscale-gh-pages/assets/img/bg-masthead.jpg) no-repeat center center / cover;
+
+}
+
+
+.header-text {
+    background-image: linear-gradient(#444444, #d1d1d3);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.button-1 {
+    border-radius: 6px;
+    background-color: #64a19d;
+    color: #ffff;
+    border-color: transparent;
+    letter-spacing: 3px;
+}
+
+.header-text-2 {
+    background-image: linear-gradient(#444444, #d1d1d3);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.landing-header-text {
+    background-image: linear-gradient(#444444, #d1d1d3);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: 700;
+    letter-spacing: 20px;
+}
+
+.contain-2 {
+    display: flex;
+    margin-top: 150px;
+    margin-left: 80px;
+    align-items: center;
+    gap: 50px;
+}
+
+
+.sub-header-3 {
+    margin-left: 60px;
+}
+
+.image-3 {
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+
+.footer {
+    margin-top: 100px;
+    background-image: url(./startbootstrap-grayscale-gh-pages/assets/img/bg-signup.jpg);
+    width: 100%;
+}
+
+.p {
+    padding: 20px;
+    padding-left: 24px;
+    padding-right: 300px;
+    border-radius: 7px;
+    color: #ffffff;
+    border-color: transparent;
+}
+
+.button-5 {
+    padding: 20px;
+    border-radius: 7px;
+    background-color: #64a19d;
+    color: #ffffff70;
+    border-color: transparent;
+}
+
+.foot-content {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.contact {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+
+
+
+.cool-border::after {
+    content: "";
+    position: absolute;
+    background-color: #64a19d;
+    width: 15%;
+    height: 4px;
+    bottom: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.contact-1 {
+    height: 200px;
+    width: 300px;
+    border: 1px solid #ffff;
+    background-color: #ffff;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.contact-2 {
+    height: 200px;
+    width: 300px;
+    border: 1px solid #ffff;
+    background-color: #ffff;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.contact-3 {
+    height: 200px;
+    width: 300px;
+    border: 1px solid #ffff;
+    background-color: #ffff;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.icon {
+    margin-bottom: 12px;
+}
+
+.footer-end {
+    align-items: center;
+}
+
+.icon {
+    margin-top: 24px;
+}

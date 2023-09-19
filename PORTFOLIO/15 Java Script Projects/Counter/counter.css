@@ -1,0 +1,49 @@
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    font-weight: bold;
+}
+
+#value{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-size: xx-large;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+
+.btn-increase{
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.btn-reset{
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.btn-decrease{
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.btn-increase:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.btn-reset:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.btn-decrease:hover{
+    background-color: #000;
+    color: #fff;
+}
